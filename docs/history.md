@@ -2,6 +2,7 @@
 
 - React + Vite 설치
 - Axios 설치
+- koyeb(배포) 설정 완료
 
 # 예정
 
